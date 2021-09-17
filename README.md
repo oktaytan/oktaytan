@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @oktaytan
-- 👀 I’m interested in iOS development and front-end technologies
-- 🌱 I’m currently learning Swift for iOS develoment.
+- 👋  Hi, I’m Oktay.
+- 👀  I’m interested in iOS development and front-end technologies
+- 🌱  I’m currently learning Swift for iOS develoment.
 
 <!---
 oktaytan/oktaytan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
