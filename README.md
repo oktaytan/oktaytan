@@ -1,8 +1,3 @@
-- 👋  Hi, I’m Oktay.
-- 👀  I’m interested in iOS development and front-end technologies
-- 🌱  I’m currently learning Swift for iOS develoment.
+Hello, I'm Oktay.
 
-<!---
-oktaytan/oktaytan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a junior mobile and web developer living in Turkey, working freelance. I love being in web and mobile technologies. I'm currently learning Swift for iOS development. At the same time, I design amateurish user interfaces.
