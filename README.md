@@ -15,7 +15,7 @@
 
 **Languages and Tools:**
 
-<p>
+ <p>
   <img alt="" src="https://img.shields.io/badge/-Swift-red?style=flat&logo=Swift&logoColor=white">
   <img alt="" src="https://img.shields.io/badge/-SwiftUI-red?style=flat&logo=SwiftUI&logoColor=white">
   <img alt="" src="https://img.shields.io/badge/-HTML-green?style=flat&logo=HTML5&logoColor=white">
@@ -23,13 +23,12 @@
   <img alt="" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white">
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
+<p>
+  <a href="https://github.com/oktaytan?tab=repositories">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oktaytan&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  </a>
+</p> 
 
-<p align="left">
-<a href="https://github.com/oktaytan?tab=repositories">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oktaytan&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-</a>
-</p>
 
 
 
