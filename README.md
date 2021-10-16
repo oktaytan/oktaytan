@@ -1,9 +1,8 @@
 ## Hello, I'm Oktay
 
-
-[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-red?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/16944051/oktaytan)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/oktaytan)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oktaytan/)
+[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-red?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/16944051/oktaytan)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/oktaytandev)
 
 
 
