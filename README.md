@@ -27,7 +27,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/oktaytan">
+<a href="https://github.com/oktaytan?tab=repositories">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oktaytan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
