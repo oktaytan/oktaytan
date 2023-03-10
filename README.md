@@ -15,9 +15,6 @@
  <p>
   <img alt="" src="https://img.shields.io/badge/-Swift-red?style=flat&logo=Swift&logoColor=white">
   <img alt="" src="https://img.shields.io/badge/-SwiftUI-red?style=flat&logo=SwiftUI&logoColor=white">
-  <img alt="" src="https://img.shields.io/badge/-HTML-green?style=flat&logo=HTML5&logoColor=white">
-  <img alt="" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=white">
-  <img alt="" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white">
 </p>
 
 <p>
