@@ -7,7 +7,6 @@
 **About Me:**
 
 - I’m currently working on iOS Development and learning __Swift__, __UIKit__, __SwiftUI__.
-- I was also interested in front-end technologies for a while.
 - Fun-Fact: In my spare time, I make amateur interface designs and draw cartoons.
 
 **Languages and Tools:**
