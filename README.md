@@ -6,8 +6,8 @@
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on iOS Development and learning __Swift__, __UIKit__, __SwiftUI__.
-- Fun-Fact: In my spare time, I make amateur interface designs and draw cartoons.
+- I’m currently working on iOS Development with __Swift__, __UIKit__, __SwiftUI__.
+- Fun-Fact: In my spare time, I make amateur draw cartoons.
 
 **Languages and Tools:**
 
