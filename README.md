@@ -6,7 +6,7 @@
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on iOS Development with __Swift__, __UIKit__, __SwiftUI__.
+I’m currently working on iOS Development with __Swift__, __UIKit__, __SwiftUI__.
 
 **Languages and Tools:**
 
